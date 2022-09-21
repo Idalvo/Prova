@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesteProva</string>
+    <string name="result_text">hello</string>
+    <string name="roll_button">button</string>
+</resources>
